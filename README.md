@@ -11,4 +11,4 @@
 
 ## 📫 Connect with me
 
-* LinkedIn: https://linkedin.com/in/mohammed-kutty-pl
+* LinkedIn: [https://linkedin.com/in/mohammed-kutty-pl](https://www.linkedin.com/in/mohammed-kutty-pl-/)
