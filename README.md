@@ -1,9 +1,14 @@
 # Hi, I'm Mohammed Kutty 👋
 
-- CS Student at TKMCE
-- Interested in Full Stack Development
-- Built projects using Node.js, Express, MongoDB
+🎓 CS Student at TKM College of Engineering
+💻 Interested in Full Stack Development
+⚙️ Working with Node.js, Express, MongoDB
 
-## Projects
-- Sporza – Training tracking system
-- CarForU – Rental platform
+## 🚀 Projects
+
+* **Sporza** – Training tracking system with real-time coach monitoring
+* **CarForU** – Car rental platform with booking and authentication system
+
+## 📫 Connect with me
+
+* LinkedIn: https://linkedin.com/in/mohammed-kutty-pl
